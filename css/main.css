@@ -1,0 +1,39 @@
+
+
+/* ==========================================================================
+   custom styles
+   ========================================================================== */
+
+#roi-calculator .mt-20{margin-top:20px;}
+#roi-calculator .mt-40{margin-top:40px;}
+#roi-calculator .mb-10{margin-bottom:10px;}
+#roi-calculator .mb-20{margin-bottom:20px;}
+#roi-calculator .mb-none{margin-bottom:0;}
+#roi-calculator .bb-none{border-bottom:0;}
+#roi-calculator .text-center{text-align:center;}
+#roi-calculator .text-right{text-align:right;}
+#roi-calculator label{font-weight: normal; text-align: left;font-size: 11px;}
+#roi-calculator .subheading{font-weight: bold;font-size: 11px;}
+#roi-calculator input[type="text"], #roi-calculator input[type="number"]{font-size: 11px;line-height: 1;padding: 6px;border-radius: 0;height: 24px;}
+#roi-calculator .section-bg{padding: 10px;border-radius: 4px;}
+#roi-calculator .bg-default{background: #f2f2f2;}
+#roi-calculator .bg-success{background: #a6da7e;}
+#roi-calculator .bg-info{background: #62d9ff;}
+#roi-calculator .input-group-addon{padding: 2px 8px;border-radius: 0;font-size: 11px;}
+#roi-calculator .chart-container{min-width: 310px; max-width: 800px; height: 400px; margin: 0 auto}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
